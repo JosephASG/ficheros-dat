@@ -1,6 +1,6 @@
-// Ordenamiento QuickSort con ficheros
-// Joseph Santamaria
-// 10/12/2022
+// Lectura de ficheros con la extensión .dat
+// Autor: Joseph Santamaria
+// Fecha: 10/12/2022
 
 #include <iostream>
 #include <fstream>
